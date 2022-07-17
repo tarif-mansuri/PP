@@ -1,5 +1,5 @@
 //$Id$
-package com.pp.gearingup.arraysanddynamicarrays;
+package com.pp.gearingup.arraysanddynamicarrays.homework1;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
